@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>it.impl.banking</groupId>
     <artifactId>banking-api</artifactId>
-    <version>0.9.0</version>
+    <version>0.10.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <licenses>
         <license>
@@ -21,7 +21,7 @@
     </developers>
     <scm>
         <url>https://github.com/impl-it-banking/banking-api</url>
-        <tag>banking-api-0.9.0</tag>
+        <tag>HEAD</tag>
         <connection>scm:git:git@github.com:impl-it-banking/banking-api.git</connection>
         <developerConnection>scm:git:git@github.com:impl-it-banking/banking-api.git</developerConnection>
     </scm>
