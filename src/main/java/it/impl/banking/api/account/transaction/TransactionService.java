@@ -19,7 +19,5 @@ import java.util.List;
 
 public interface TransactionService {
 
-    List<Transaction> getUndefinedAmountOfTransactions() throws TransactionServiceException;
-
     List<Transaction> getTransactions(TransactionConstraint constraint) throws TransactionServiceException;
 }
